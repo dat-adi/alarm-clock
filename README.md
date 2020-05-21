@@ -3,7 +3,7 @@ A simple alarm service designed to help notify you of when the time has come.
 
 ## Features
 
-it is designed to help you get notifications on the specified time
+It is designed to help you get notifications on the specified time
 
 ## Contributing
 
