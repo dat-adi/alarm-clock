@@ -11,6 +11,7 @@ def call_box():
 # Deploys the call_box function after the remaining time
 def alert_deploy(remaining_time):
     sleep(remaining_time)
+    print('\a')
     call_box()
 
 # Checks for the difference in time between the current time and the next timestamp
