@@ -7,7 +7,7 @@ It is designed to help you get notifications on the specified time
 
 ## Contributing
 
-To contribute to Steam_WebScrapper, fork the repository, create a new branch and send us a pull request. 
+To contribute to Alarm-clock, fork the repository, create a new branch and send us a pull request. 
 
 ## LICENSE
 
